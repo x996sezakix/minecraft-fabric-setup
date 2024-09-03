@@ -9,9 +9,9 @@
 8. Start Minecraft, change the various settings to your liking, and you are done.
 
 ## FAQ
-### Where is the game directory?  
+### - Where is the game directory?  
 Click on the folder icon next to the Play button that appears when you mouse over each version listed on the Installations screen.
-### Drawing is slow when moving fast in Elytra, etc
+### - Drawing is slow when moving fast in Elytra, etc
 Turn off “Always Defer Chunk Updates” under Options -> Video settings -> Performance.
 
 ## インストール
@@ -25,7 +25,7 @@ Turn off “Always Defer Chunk Updates” under Options -> Video settings -> Per
 8. Minecraft を起動させ、各種設定をお好みに変更したら完了。
 
 ## FAQ
-### ゲームディレクトリはどこですか？ 
+### - ゲームディレクトリはどこですか？ 
 起動構成に表示されている各バージョンをマウスオーバーすると表示される Play ボタンの隣にあるフォルダのアイコンをクリックすると表示されます。
-### エリトラや氷ボートで移動すると描画が遅れる
+### - エリトラや氷ボートで移動すると描画が遅れる
 設定 -> ビデオ設定 -> Performance にある『Always Defer Chunk Updates』をオフにしてください。
